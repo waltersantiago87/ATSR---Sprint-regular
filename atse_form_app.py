@@ -26,7 +26,7 @@ from pathlib import Path
 import io
 import pandas as pd
 
-st.set_page_config(page_title="ATSE – Sprint Regular", page_icon="✅", layout="centered")
+st.set_page_config(page_title="ATSE – Sprint Específico", page_icon="✅", layout="centered")
 
 # ===================== CONFIG ===================== #
 ARQUIVO_SAIDA = Path("respostas_ATSE.csv")
