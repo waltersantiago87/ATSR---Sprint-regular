@@ -115,7 +115,7 @@ def bloco_avaliacao(avaliador_nome: str, avaliado_nome: str) -> float:
 
 def pagina_avaliador():
     st.markdown("""
-    # ✅ ATSE – Sprint Regular (Formulário)
+    # ✅ ATSE – Sprint Específico (Formulário)
     Escolha seu nome e avalie **apenas os colegas do seu subgrupo**.
     Cada avaliação tem **5 critérios** (0–10). Ao enviar, as respostas são salvas e você pode fechar.
     """)
